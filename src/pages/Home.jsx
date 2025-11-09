@@ -26,7 +26,7 @@ export default function Home() {
               {siteContent.problem.title}
             </h2>
             <img
-              src="/images/problem_infographic.png"
+              src="/Dignotix/images/problem_infographic.png"
               alt="Problem: diagnostic delays, chemical dependency, pricing unaffordability"
               className="w-full max-w-2xl mx-auto mb-8 rounded-lg shadow-lg"
               loading="lazy"
