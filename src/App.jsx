@@ -17,7 +17,7 @@ import Demo from './pages/Demo';
 function App() {
   return (
     <HelmetProvider>
-      <Router>
+      <Router basename="/Dignotix">
         <div className="flex flex-col min-h-screen">
           <Header />
           <main className="flex-grow">
