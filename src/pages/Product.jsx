@@ -35,7 +35,7 @@ export default function Product() {
               className="flex justify-center mb-12"
             >
               <img
-                src="/images/hero_device_render.png"
+                src="/Dignotix/images/hero_device_render.png"
                 alt="Dignotix portable diagnostic device"
                 className="w-full max-w-2xl rounded-2xl shadow-2xl"
                 loading="eager"

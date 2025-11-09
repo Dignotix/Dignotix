@@ -38,7 +38,7 @@ export default function Technology() {
               initial={{ opacity: 0, scale: 0.95 }}
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
-              src="/images/tech_stack_diagram.png"
+              src="/Dignotix/images/tech_stack_diagram.png"
               alt="Technology stack: AI, IoT, MIPs, MAb LOCs"
               className="w-full max-w-3xl mx-auto rounded-lg shadow-xl mb-12"
               loading="lazy"

@@ -72,7 +72,7 @@ export default function Demo() {
               >
                 <div className="card bg-gradient-to-br from-primary-50 to-sky-50 p-8">
                   <motion.img
-                    src="/images/hero_device_render.png"
+                    src="/Dignotix/images/hero_device_render.png"
                     alt="Dignotix device"
                     className="w-full max-w-md mx-auto"
                     animate={isRunning ? { scale: [1, 1.05, 1] } : {}}

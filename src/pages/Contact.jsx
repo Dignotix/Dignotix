@@ -183,7 +183,7 @@ export default function Contact() {
             >
               <div>
                 <h2 className="text-2xl font-bold mb-6">Direct Contact</h2>
-                <ContactCard contact={{ ...ceoContact, image: "/images/team_mohammed_abdo.png" }} />
+                <ContactCard contact={{ ...ceoContact, image: "/Dignotix/images/team_mohammed_abdo.png" }} />
               </div>
 
               <div className="card">
@@ -226,7 +226,7 @@ export default function Contact() {
 
               <div className="card">
                 <img
-                  src="/images/contact_card.png"
+                  src="/Dignotix/images/contact_card.png"
                   alt="Contact: Dr Mohammed Abdo, Mohammed.abdo@rst.edu.eg, +20 114 429 9280"
                   className="w-full rounded-lg"
                   loading="lazy"

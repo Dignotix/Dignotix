@@ -56,7 +56,7 @@ export default function Traction() {
                 <div className="flex flex-col md:flex-row items-center gap-8">
                   <div className="md:w-1/3">
                     <img
-                      src="/images/partner_wlb_logo.png"
+                      src="/Dignotix/images/partner_wlb_logo.png"
                       alt={`Partner: ${partner.name}`}
                       className="w-full max-w-xs mx-auto"
                       loading="lazy"

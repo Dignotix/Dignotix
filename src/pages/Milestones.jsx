@@ -41,7 +41,7 @@ export default function Milestones() {
               initial={{ opacity: 0, scale: 0.95 }}
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
-              src="/images/milestones_timeline.png"
+              src="/Dignotix/images/milestones_timeline.png"
               alt="Milestones timeline: 2025–2028 rollout"
               className="w-full max-w-4xl mx-auto rounded-lg shadow-xl mb-12"
               loading="lazy"

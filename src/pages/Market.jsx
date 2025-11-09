@@ -41,7 +41,7 @@ export default function Market() {
               initial={{ opacity: 0, scale: 0.95 }}
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
-              src="/images/market_chart.png"
+              src="/Dignotix/images/market_chart.png"
               alt={`Market opportunity: TAM $${market.TAM}, SAM $${market.SAM}, SOM $${market.SOM}`}
               className="w-full max-w-3xl mx-auto rounded-lg shadow-xl mb-12"
               loading="lazy"

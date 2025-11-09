@@ -50,8 +50,8 @@ export default function Team() {
                   <div className="flex flex-col items-center text-center">
                     <img
                       src={member.name.includes("Mohammed") 
-                        ? "/images/team_mohammed_abdo.png" 
-                        : "/images/team_mostafa_nasser.png"}
+                        ? "/Dignotix/images/team_mohammed_abdo.png" 
+                        : "/Dignotix/images/team_mostafa_nasser.png"}
                       alt={member.name}
                       className="w-32 h-32 rounded-full object-cover mb-4 border-4 border-primary-100"
                       loading="lazy"
