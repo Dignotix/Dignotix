@@ -1,0 +1,47 @@
+{
+  "fundingAsk": 1000000,
+  "currency": "USD",
+  "allocation": [
+    {
+      "category": "Materials",
+      "amount": 200000,
+      "percentage": 20,
+      "description": "Raw materials and components for device manufacturing"
+    },
+    {
+      "category": "Licenses & Patents",
+      "amount": 200000,
+      "percentage": 20,
+      "description": "Intellectual property protection and licensing fees"
+    },
+    {
+      "category": "Operations",
+      "amount": 100000,
+      "percentage": 10,
+      "description": "Operational expenses, staffing, and infrastructure"
+    },
+    {
+      "category": "Factory Setup",
+      "amount": 500000,
+      "percentage": 50,
+      "description": "Manufacturing facility establishment and equipment"
+    }
+  ],
+  "projections": {
+    "year1": {
+      "revenue": 500000,
+      "costs": 350000,
+      "profit": 150000
+    },
+    "year2": {
+      "revenue": 1500000,
+      "costs": 900000,
+      "profit": 600000
+    },
+    "year3": {
+      "revenue": 4000000,
+      "costs": 2200000,
+      "profit": 1800000
+    }
+  }
+}

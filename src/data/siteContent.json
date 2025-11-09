@@ -1,0 +1,176 @@
+{
+  "company": "Dignotix",
+  "tagline": "Empower Tomorrow's Health",
+  "mission": "Making medical tests faster and cheaper.",
+  "problem": {
+    "title": "The Healthcare Diagnostic Challenge",
+    "points": [
+      "Time is critical in diagnostics — delays can cost lives",
+      "Chemicals make up 70–80% of medical analyses",
+      "Medical test prices are unaffordable for ~50% of the population"
+    ]
+  },
+  "solution": {
+    "title": "Smart, Wearable, Portable Diagnostics",
+    "description": "Low-cost diagnostic devices that reduce time & cost and enable new tests.",
+    "features": [
+      {
+        "name": "Smart",
+        "icon": "🧠",
+        "description": "AI-powered analysis delivers accurate results in real-time"
+      },
+      {
+        "name": "Wearable",
+        "icon": "⌚",
+        "description": "Compact design for continuous health monitoring"
+      },
+      {
+        "name": "Portable",
+        "icon": "📱",
+        "description": "Take diagnostics anywhere, anytime"
+      }
+    ]
+  },
+  "metrics": {
+    "diagnoses": 30,
+    "timePerTest": "1–5s",
+    "IPs": 4,
+    "TRL": 6
+  },
+  "technology": {
+    "title": "Cutting-Edge Technology Stack",
+    "components": [
+      {
+        "name": "AI",
+        "description": "Machine learning algorithms for pattern recognition and diagnosis"
+      },
+      {
+        "name": "IoT",
+        "description": "Connected devices for real-time data transmission and cloud integration"
+      },
+      {
+        "name": "MIPs",
+        "description": "Molecularly Imprinted Polymers for selective molecular recognition"
+      },
+      {
+        "name": "MAb LOCs",
+        "description": "Monoclonal Antibody Lab-on-Chip for precise biomarker detection"
+      }
+    ]
+  },
+  "market": {
+    "TAM": "95.59B",
+    "SAM": "28.67B",
+    "SOM": "1.43B",
+    "growth": "7.5%",
+    "growthPeriod": "through 2029",
+    "source": "techsciresearch.com"
+  },
+  "competitiveAdvantage": [
+    {
+      "test": "IF-Gamma",
+      "traditional": {
+        "time": "3 days",
+        "cost": "$40–60"
+      },
+      "dignotix": {
+        "time": "5 seconds",
+        "cost": "$4"
+      }
+    },
+    {
+      "test": "CRP, Chol, UA, CK, Glu, Na, K, iCa, Cl-",
+      "traditional": {
+        "time": "2 days",
+        "cost": "$50–100"
+      },
+      "dignotix": {
+        "time": "5 seconds",
+        "cost": "$9"
+      }
+    }
+  ],
+  "partners": [
+    {
+      "name": "Wuhan Lutian Biotechnology Co., Ltd (WLB)",
+      "status": "Partnership established",
+      "achievements": [
+        "Basic sensor developed",
+        "Device licenses under negotiation",
+        "OEM talks ongoing"
+      ]
+    }
+  ],
+  "businessModel": [
+    {
+      "name": "Full Device + Package",
+      "price": "$10–50",
+      "netProfit": "50%",
+      "lifetimeRevenue": "$160",
+      "description": "Complete solution with device and 10 test strips"
+    },
+    {
+      "name": "Device Alone",
+      "price": "$50–150",
+      "netProfit": "20%",
+      "description": "Standalone diagnostic device"
+    },
+    {
+      "name": "Test Strip Package",
+      "price": "Variable",
+      "netProfit": "30%",
+      "description": "Package of 10 test strips for existing devices"
+    }
+  ],
+  "team": [
+    {
+      "name": "Dr. Mohammed Abdo",
+      "role": "CEO",
+      "email": "Mohammed.abdo@rst.edu.eg",
+      "phone": "+20 114 429 9280",
+      "bio": "Leading expert in diagnostic technology and medical device innovation"
+    },
+    {
+      "name": "Eng. Mostafa Nasser",
+      "role": "CBO",
+      "bio": "7 years experience in Biotech; 3 years in business development"
+    }
+  ],
+  "milestones": [
+    {
+      "date": "June 2025",
+      "region": "Egypt",
+      "sensors": "1M",
+      "devices": "20K",
+      "description": "Licenses + Lab setup"
+    },
+    {
+      "date": "December 2025",
+      "region": "Egypt",
+      "sensors": "1M",
+      "devices": "20K",
+      "description": "Local rollout"
+    },
+    {
+      "date": "June 2026",
+      "region": "Middle East",
+      "sensors": "2M",
+      "devices": "40K",
+      "description": "Regional expansion"
+    },
+    {
+      "date": "June 2027",
+      "region": "Asia",
+      "sensors": "6M",
+      "devices": "60K",
+      "description": "Asian market entry"
+    },
+    {
+      "date": "June 2028",
+      "region": "Global",
+      "sensors": "20M",
+      "devices": "100K",
+      "description": "Worldwide deployment"
+    }
+  ]
+}
