@@ -116,7 +116,7 @@ All images should be placed in the `public/images/` directory. The site referenc
 | `partner_wlb_logo.png` | WLB partnership logo | Partner: Wuhan Lutian Biotechnology Co., Ltd (WLB) |
 | `business_model_diagram.png` | Revenue model breakdown | Business model: pricing and margin split |
 | `team_mohammed_abdo.png` | CEO portrait | Dr. Mohammed Abdo — CEO |
-| `team_mostafa_nasser.png` | CBO portrait | Eng. Mostafa Nasser — CBO |
+| `team_ahmed_yasser.png` | CBO portrait | Eng. Mostafa Nasser — CBO |
 | `milestones_timeline.png` | 2025-2028 roadmap | Milestones timeline: 2025–2028 rollout |
 | `contact_card.png` | CEO contact information | Contact: Dr Mohammed Abdo, Mohammed.abdo@rst.edu.eg, +20 114 429 9280 |
 

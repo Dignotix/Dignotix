@@ -51,7 +51,7 @@ export default function Team() {
                     <img
                       src={member.name.includes("Mohammed") 
                         ? "/Dignotix/images/team_mohammed_abdo.png" 
-                        : "/Dignotix/images/team_Ahmed_yasser.png"}
+                        : "/Dignotix/images/team_ahmed_yasser.png"}
                       alt={member.name}
                       className="w-32 h-32 rounded-full object-cover mb-4 border-4 border-primary-100"
                       loading="lazy"
