@@ -29,7 +29,9 @@ describe('ContactCard Component', () => {
   it('renders phone link with tel', () => {
     render(<ContactCard contact={mockContact} />);
     
-    const phoneLink = screen.getByRole('link', { name: new RegExp(mockContact.phone.replace(/\s/g, ''), 'i') });
+    // Escape regex special characters (keep spaces as they appear in the rendered text)
+    const phonePattern = mockContact.phone.replace(/[+\-()]/g, '\\$&');
+    const phoneLink = screen.getByRole('link', { name: new RegExp(phonePattern, 'i') });
     expect(phoneLink).toHaveAttribute('href', `tel:${mockContact.phone}`);
   });
 
