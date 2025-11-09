@@ -11,7 +11,7 @@ export default function ContactCard({ contact }) {
     >
       <div className="flex items-start space-x-4">
         <img
-          src={contact.image || "/images/team_mohammed_abdo.png"}
+          src={contact.image || "/Dignotix/images/team_mohammed_abdo.png"}
           alt={contact.name}
           className="w-20 h-20 rounded-full object-cover"
           loading="lazy"

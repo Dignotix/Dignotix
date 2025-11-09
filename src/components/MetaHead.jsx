@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet-async';
 export default function MetaHead({ 
   title = "Dignotix — Empower Tomorrow's Health",
   description = "Making medical tests faster and cheaper. Portable, wearable, and smart diagnostic devices.",
-  image = "/images/hero_logo_with_tagline.png",
+  image = "/Dignotix/images/hero_logo_with_tagline.png",
   url = "https://dignotix.com"
 }) {
   return (

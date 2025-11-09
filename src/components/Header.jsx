@@ -24,7 +24,7 @@ export default function Header() {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-3 focus-visible-ring rounded">
             <img 
-              src="/images/hero_logo_with_tagline.png" 
+              src="/Dignotix/images/hero_logo_with_tagline.png" 
               alt="Dignotix logo" 
               className="h-10 w-auto"
               loading="eager"

@@ -93,7 +93,7 @@ export default function Hero() {
             style={{ y }}
           >
             <motion.img
-              src="/images/hero_device_render.png"
+              src="/Dignotix/images/hero_device_render.png"
               alt="Dignotix portable diagnostic device"
               className="w-full max-w-[540px] object-contain drop-shadow-2xl"
               loading="eager"

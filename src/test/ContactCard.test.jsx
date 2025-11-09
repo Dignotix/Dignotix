@@ -9,7 +9,7 @@ describe('ContactCard Component', () => {
     email: 'Mohammed.abdo@rst.edu.eg',
     phone: '+20 114 429 9280',
     bio: 'Leading expert in diagnostic technology',
-    image: '/images/team_mohammed_abdo.png'
+    image: '/Dignotix/images/team_mohammed_abdo.png'
   };
 
   it('renders contact name and role', () => {

@@ -10,7 +10,7 @@ export default function Footer() {
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
             <img 
-              src="/images/hero_logo_with_tagline.png" 
+              src="/Dignotix/images/hero_logo_with_tagline.png" 
               alt="Dignotix logo" 
               className="h-10 w-auto mb-4 brightness-0 invert"
               loading="lazy"
