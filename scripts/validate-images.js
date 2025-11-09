@@ -17,7 +17,7 @@ const requiredImages = [
   'partner_wlb_logo.png',
   'business_model_diagram.png',
   'team_mohammed_abdo.png',
-  'team_mostafa_nasser.png',
+  'team_ahmed_yasser.png',
   'milestones_timeline.png',
   'contact_card.png',
 ];
